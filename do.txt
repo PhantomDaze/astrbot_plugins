@@ -1,0 +1,8 @@
+已做：
+- 删除现有插件内容，plugins.json 现为空对象
+- 同步清空 plugin_cache_original.json
+- README.md 已改为新增插件说明
+
+待做：
+- 把你自己的插件条目写入 plugins.json
+- 如需发布/同步，检查生成流程是否仍按新结构工作
