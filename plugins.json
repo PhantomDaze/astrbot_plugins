@@ -1,1 +1,14 @@
-{}
+{
+    "astrbot-plugin-token-controller": {
+        "display_name": "chuanhuatong",
+        "desc": "null",
+        "author": "null",
+        "repo": "https://github.com/PhantomDaze/astrbot_plugin_chuanhuatong",
+        "tags": [
+            "t2i",
+            "pillow",
+            "webui"
+        ]
+    }
+    
+}
