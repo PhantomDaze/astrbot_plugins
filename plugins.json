@@ -1,8 +1,8 @@
 {
     "astrbot-plugin-token-controller": {
         "display_name": "chuanhuatong",
-        "desc": "null",
-        "author": "null",
+        "desc": "将bot的文本输出转为带立绘，背景，对话框的图片",
+        "author": "bvzRays",
         "repo": "https://github.com/PhantomDaze/astrbot_plugin_chuanhuatong",
         "tags": [
             "t2i",
